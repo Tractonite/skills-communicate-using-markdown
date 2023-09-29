@@ -9,3 +9,6 @@ Learned Markup
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Turn on GitHub
+- [x] Create a Repository
+- [ ] FInish the Task
